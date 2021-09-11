@@ -1,3 +1,3 @@
-# Welcome to mdd022021
+# Welcome to MDD02
 
 Hello World!
